@@ -14,3 +14,7 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# Testing files
+*/file1.txt
+*/file2.txt
